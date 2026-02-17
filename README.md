@@ -148,11 +148,11 @@ Customer retention improves with:
 
 ## Dashboard Preview
 
-![Customer Demographic Analysis](dashboard1.png)
-![Service Subscription Analysis](dashboard2.png)
-![Contract and Billing Insights](dashboard3.png)
-![Churn Analysis](dashboard4.png)
-![Key Analysis](dashboard5.png)
+![Customer Demographic Analysis](Customer_Analysis.png)
+![Service Subscription Analysis](Service_Analysis.png)
+![Contract and Billing Insights](Contract&bill_insights.png)
+![Churn Analysis](Churn_Analysis.png)
+![Key Analysis](KeyAnalysis.png)
 
 ## Business Value
 
